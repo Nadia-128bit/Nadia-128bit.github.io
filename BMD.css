@@ -4,7 +4,7 @@ html {
 
 body {
     margin: 0;
-    background-color: #efefef;
+    background:linear-gradient(to bottom right, #3498db, #9b59b6);
     text-align: center;
 }
 
