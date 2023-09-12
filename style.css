@@ -21,6 +21,7 @@ header h1 {
 .container {
     width: 400px;
     margin: 0 auto;
+    background-color: hsla(282, 39%, 81%, 0.765);
 }
 
 section article {
