@@ -4,7 +4,8 @@ html {
 
 body {
     margin: 1;
-    background-color: #d6bce1c3;
+    background-image: hsla(282, 39%, 81%, 0.765);
+
 }
 
 header {
@@ -36,6 +37,8 @@ section article {
 section a {
     color: black;
     text-decoration: none;
+    background-image: hsla(282, 39%, 81%, 0.765);
+
 }
 
 section article:hover {

@@ -5,7 +5,7 @@ html {
 body {
     margin: 1;
     background:linear-gradient(to bottom right, #3498db, #9b59b6);
-    text-align: justify;
+    text-align: center;
 }
 
 header {
@@ -19,7 +19,7 @@ header h1 {
     text-align: center;
 }
 .container {        
-    width: 400px;
+    width: 600px;
     margin: 1 auto;
     background-color: #a8b0da;
     background-image: hsla(282, 39%, 81%, 0.765);
@@ -38,6 +38,8 @@ section article {
 section a {
     color: #7aaeae;
     text-decoration: none;
+    background-image: hsla(282, 39%, 81%, 0.765);
+
 }
 
 section article:hover {

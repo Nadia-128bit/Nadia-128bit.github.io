@@ -4,7 +4,7 @@ html {
 
 body {
     margin: 0;
-    background-color: #7988df;
+    background-image: hsla(282, 39%, 81%, 0.765);
     text-align: center;
 }
 
@@ -37,6 +37,8 @@ section article {
 section a {
     color: rgb(30, 161, 161);
     text-decoration: none;
+    background-image: hsla(282, 39%, 81%, 0.765);
+
 }
 
 section article:hover {
