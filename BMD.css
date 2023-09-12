@@ -60,7 +60,7 @@ footer p {
 
 footer a {
     transition: color 0.3s ease;
-    color: #fff;
+    color: rgb(199, 177, 228);
     text-decoration-color: none;
 }
 
