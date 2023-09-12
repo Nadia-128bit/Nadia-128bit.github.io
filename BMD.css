@@ -3,7 +3,7 @@ html {
 }
 
 body {
-    margin: 0;
+    margin: 1;
     background:linear-gradient(to bottom right, #3498db, #9b59b6);
     text-align: justify;
 }
@@ -20,8 +20,10 @@ header h1 {
 }
 .container {        
     width: 400px;
-    margin: 0 auto;
+    margin: 1 auto;
     background-color: #a8b0da;
+    background-image: hsla(282, 39%, 81%, 0.765);
+
 }
 
 section article {

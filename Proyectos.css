@@ -21,7 +21,7 @@ header h1 {
 .container {
     width: 400px;
     margin: 0 auto;
-    background-color: hsla(282, 39%, 81%, 0.765);
+    background-image: hsla(282, 39%, 81%, 0.765);
 
 }
 
@@ -32,15 +32,21 @@ section article {
     border-radius: 0.5rem;
     padding: 0.25rem 0;
     cursor: pointer; 
+    background-image: hsla(282, 39%, 81%, 0.765);
+
 }
 
 section a {
     color: rgb(30, 161, 161);
     text-decoration: none;
+    background-image: hsla(282, 39%, 81%, 0.765);
+
 }
 
 section article:hover {
     box-shadow: 0 0.1rem 0.4rem rgba(0,0,0,0.3);
+    background-image: hsla(282, 39%, 81%, 0.765);
+
 }
 
 section article h2, section article p {

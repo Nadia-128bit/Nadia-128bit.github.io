@@ -3,13 +3,13 @@ html {
 }
 
 body {
-    margin: 0;
-    background-color: #efefef;
+    margin: 1;
+    background-color: #d6bce1c3;
 }
 
 header {
     background:linear-gradient(to bottom right, #3498db, #9b59b6);
-    color: #D7BDE2;
+    color: #d6bce1c3;
     padding: 1rem 2rem;
 }
 
@@ -20,13 +20,13 @@ header h1 {
 
 .container {
     width: 400px;
-    margin: 0 auto;
-    background-color: hsla(282, 39%, 81%, 0.765);
+    margin: 1 auto;
+    background-color: #d6bce1c3;
 }
 
 section article {
     transition: box-shadow 0.3s ease;
-    background-color: #fff;
+    background-color: #d6bce1c3;
     margin: 1rem 0;
     border-radius: 0.5rem;
     padding: 0.25rem 0;
