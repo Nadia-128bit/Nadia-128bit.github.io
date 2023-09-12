@@ -4,12 +4,13 @@ html {
 
 body {
     margin: 1;
-    background-image: hsla(282, 39%, 81%, 0.765);
+    background-image:linear-gradient(to bottom right, #3498db, #9b59b6);
+
 
 }
 
 header {
-    background:linear-gradient(to bottom right, #3498db, #9b59b6);
+    background-image:linear-gradient(to bottom right, #3498db, #9b59b6);
     color: #d6bce1c3;
     padding: 1rem 2rem;
 }
@@ -22,7 +23,7 @@ header h1 {
 .container {
     width: 400px;
     margin: 1 auto;
-    background-color: #d6bce1c3;
+    
 }
 
 section article {
@@ -37,7 +38,7 @@ section article {
 section a {
     color: black;
     text-decoration: none;
-    background-image: hsla(282, 39%, 81%, 0.765);
+    background-image:linear-gradient(to bottom right, #3498db, #9b59b6);
 
 }
 
